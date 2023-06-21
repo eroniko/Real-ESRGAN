@@ -1,3 +1,4 @@
+#python3 inference_realesrgan.py -n RealESRGAN_x4plus -i inputs --face_enhance --tile 0 --fp32
 import argparse
 import cv2
 import glob
